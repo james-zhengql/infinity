@@ -28,7 +28,7 @@ CMakeCache.txt
 
 # Ignore temporary files and third party dependencies
 tmp/
-third_party/
+
 
 
 
